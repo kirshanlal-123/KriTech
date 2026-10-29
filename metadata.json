@@ -1,0 +1,6 @@
+{
+  "name": "Kri Tech - Tech & Dev Resource Hub",
+  "description": "Modern developer resource hub with interactive roadmaps, searchable cheat sheets, project ideas generator, and developer tools directory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
